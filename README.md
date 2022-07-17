@@ -1,2 +1,3 @@
-This is sample Project
+This is sample Project.
+
 Hello this is DevOps class.
